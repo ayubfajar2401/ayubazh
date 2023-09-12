@@ -1,7 +1,6 @@
 <h1 align="center">Haloo🤗, I'm Ayub Fajar Azhari</h1><h1 align="center"> You can call me Ayub</h1> 
 <h3 align="center">I'm a Geophysics Undergraduate Student in Gadjah Mada University</h3>
 
-- 🌍 I'm from **Indonesia**
 - 📍 I'm from the city of **Kebumen**
 - 🧑 I'm **18 Years old**
 - ⚽ I have a hobby of **playing football and futsal**
