@@ -1,4 +1,4 @@
-<h1 align="center">Haloo🤗, I'm Ayub Fajar Azhari</h1><h1 align="center"> You cann call me Ayub or Yub</h1> 
+<h1 align="center">Haloo🤗, I'm Ayub Fajar Azhari</h1><h1 align="center"> You cann call me Ayub</h1> 
 <h3 align="center">I'm a Geophysics Undergraduate Student in Gadjah Mada University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayubfajar2401&label=Profile%20views&color=0e75b6&style=flat" alt="ayubfajar2401" /> </p>
