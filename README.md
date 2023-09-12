@@ -17,5 +17,3 @@
 com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayubfajr"
 height="30" width="40" /></a>
 </p>
-
-
